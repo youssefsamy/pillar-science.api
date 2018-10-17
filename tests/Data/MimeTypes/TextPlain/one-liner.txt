@@ -1,0 +1,1 @@
+This is only one line long file, it should be treated as a text/plain file type event even if it has a comma in the line
